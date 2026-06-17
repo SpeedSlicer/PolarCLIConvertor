@@ -33,3 +33,5 @@ Report more issues in the issues tab.
 ## Credits
 Credits to the Minestom team and the team behind Polar
 
+## License
+MIT.
