@@ -6,6 +6,9 @@ A really janky convertor for converting Minecraft Anvil worlds to .polar format.
 1. World in the new Minecraft World saving format (tested with 26.1.2)
 2. Java 26 
 
+## Setup
+Download the jar from releases. That's pretty much it.
+
 ## Usage
 ```
 java -jar PolarConvertorCLI.jar <input_anvil_file> <output_polar_file> <dimension>
