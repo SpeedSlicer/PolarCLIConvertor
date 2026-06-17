@@ -29,3 +29,7 @@ the_nether - Exports the nether
 ## Bugs
 Signs! They don't export as expected. 
 Report more issues in the issues tab. 
+
+## Credits
+Credits to the Minestom team and the team behind Polar
+
