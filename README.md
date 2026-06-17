@@ -21,6 +21,9 @@ java -jar PolarConvertorCLI.jar <input_anvil_file> <output_polar_file> <dimensio
 
 ```
 <dimension> - which dimension you want to export.
+```
+```
+Options for dimensions:
 overworld - Exports the overworld
 the_end - Exports the end
 the_nether - Exports the nether
