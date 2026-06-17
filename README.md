@@ -19,9 +19,7 @@ java -jar PolarConvertorCLI.jar <input_anvil_file> <output_polar_file> <dimensio
 
 ```<output_polar_file> - where you want to save it, and what as (ex. E:/Output/dungeon.polar)```
 
-```
-<dimension> - which dimension you want to export.
-```
+```<dimension> - which dimension you want to export.```
 ```
 Options for dimensions:
 overworld - Exports the overworld
